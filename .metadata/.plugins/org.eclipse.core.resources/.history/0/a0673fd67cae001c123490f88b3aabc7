@@ -1,0 +1,5 @@
+package com.te.hibernate.moduole01.bean;
+
+public class Person {
+
+}

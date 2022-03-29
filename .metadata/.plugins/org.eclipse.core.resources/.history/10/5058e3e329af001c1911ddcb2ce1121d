@@ -1,0 +1,5 @@
+package com.te.hibernatemodule.student.bean;
+
+public class Address {
+
+}
